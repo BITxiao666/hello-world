@@ -18,12 +18,17 @@
 ![img](https://github.com/BITxiao666/scholar/blob/master/gif/query.gif)
 
 ---
+
 添加课程
+带有输入检查和一定的容错机制，当输入合法时才会写入数据库，否则提示用户。
+根据北理工的课程安排，教学周必须为1到19周，一天当中只会有5个时段有课。
 
 ![img](https://github.com/BITxiao666/scholar/blob/master/gif/add.gif)
 
 ---
+
 修改课程
+点击课程栏可以直接跳到相应的编辑框。
 
 ![img](https://github.com/BITxiao666/scholar/blob/master/gif/edit.gif)
 
@@ -32,3 +37,10 @@
 删除课程
 
 ![img](https://github.com/BITxiao666/scholar/blob/master/gif/delete.gif)
+
+---
+
+修改当前周
+
+![img](https://github.com/BITxiao666/scholar/blob/master/gif/change_week.gif)
+
