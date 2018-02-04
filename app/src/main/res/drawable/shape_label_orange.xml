@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="ring"
+    android:useLevel="false"
+    android:thickness="10dp">
+
+    <!-- 实心 -->
+    <solid android:color="#FFD700" />
+    <!-- 圆角 -->
+    <corners android:radius="180dp" />
+    <!-- 边距 -->
+    <padding
+        android:bottom="100dp"
+        android:left="100dp"
+        android:right="100dp"
+        android:top="100dp" />
+
+    <!-- 大小 -->
+    <size android:width="100dp"
+        android:height="100dp" />
+
+
+</shape>

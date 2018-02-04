@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+    <dbname value='DATABASE'></dbname>
+    <version value='2'></version>
+    <list>
+        <mapping class="com.example.javacourseexercise.Course"></mapping>
+        <mapping class="com.example.javacourseexercise.GPAItem.Activity_1st_tableclass"></mapping>
+        <mapping class="com.example.javacourseexercise.GPAItem.Activity_2ed_tableclass"></mapping>
+        <mapping class="com.example.javacourseexercise.GPAItem.Activity_3rd_tableclass"></mapping>
+        <mapping class="com.example.javacourseexercise.GPAItem.Activity_4th_tableclass"></mapping>
+        <mapping class="com.example.javacourseexercise.GPAItem.Activity_5th_tableclass"></mapping>
+    </list>
+</litepal>
